@@ -10,14 +10,15 @@
 
 <h3 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=20C997&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;Web+Developer;Problem+Solver;UI%2FUX+Designer;AI+Enthusiast;Music+Lover" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;Web+Developer;Problem+Solver;UI%2FUX+Designer;Music+Lover" 
     alt="Typing SVG" 
   />
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=kavee-dx&label=Profile%20Views&color=3B82F6&style=flat" />
 </p>
+
 
 
 
