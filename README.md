@@ -28,13 +28,15 @@
 I am a software engineering undergraduate at **SLIIT**, passionate about web and software development. I enjoy learning new technologies and building practical, real-world projects.
 
 ```javascript
-const kaveesha = {
-  🌱  exploring  : ["AI/ML Integrations", "Cloud Architecture"],
-  💡  passionate : ["System Design", "Clean Code", "Beautiful UIs"],
-  🤝  open_to    : ["Collaborations", "Open-Source", "Learning Opportunities"],
-  🎵  hobbies    : ["Music", "Creative Problem Solving"],
-  ⚡  fun_fact   : "I enjoy turning complex problems into simple, scalable solutions"
-};
+kaveesha = {
+    "🎓 role"       : "Software Engineering Undergraduate | Full-Stack Developer | UI/UX Enthusiast | AI/ML Enthusiast",
+    "🚀 currently"  : "Exploring AI/ML Integrations & Cloud Architecture",
+    "📚 learning"   : "React | Node.js | System Design | Cloud Architecture | AI-powered Application Development",
+    "💡 passionate" : "Clean Code | Scalable Systems | Beautiful User Interfaces | Real-World Problem Solving",
+    "🤝 open_to"    : "Collaborations | Open-Source Contributions | Learning Opportunities",
+    "🎵 hobbies"    : "Music | Creative Problem Solving",
+    "⚡ fun_fact"   : "I enjoy turning complex problems into simple, scalable solutions"
+}
 ```
 
 ---
@@ -117,9 +119,7 @@ const kaveesha = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kavee-dx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=ffffff&count_private=true&include_all_commits=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavee-dx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=ffffff&langs_count=8" height="180"/>
+<img src="https://streak-stats.demolab.com?user=kavee-dx&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=60A5FA&dates=ffffff" width="70%"/>
 
 </div>
 
